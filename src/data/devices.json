@@ -1,0 +1,3740 @@
+[
+	{
+		"title" : "BenQ ZOWIE EC1-A",
+		"brands" : [
+			"BenQ",
+			"ZOWIE"
+		],
+		"ASIN" : "B00S9SH7C4",
+		"one_series_with" : "B00S9SH7C4",
+		"ya_market_number" : "12845277",
+		"model_year" : null,
+		"mouse_sensor" : "optical",
+		"mouse_sensor_model" : null,
+		"mouse_form" : "ergonomic",
+		"mouse_wire" : "wired",
+		"device_type" : "mouse",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			"BenQ ZOWIE EC1-B",
+			"BenQ ZOWIE EC2-A",
+			"BenQ ZOWIE EC2-B"
+		],
+		"all_games" : 24,
+		"csgo" : 24,
+		"dota2" : 0,
+		"all_games_percent" : 5.84,
+		"csgo_percent" : 11.76,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "BenQ ZOWIE EC1-B",
+		"brands" : [
+			"BenQ",
+			"ZOWIE"
+		],
+		"ASIN" : "B0771W41JT",
+		"one_series_with" : "B00S9SH7C4",
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : "optical",
+		"mouse_sensor_model" : null,
+		"mouse_form" : "ergonomic",
+		"mouse_wire" : "wired",
+		"device_type" : "mouse",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			"BenQ ZOWIE EC1-A",
+			"BenQ ZOWIE EC2-A",
+			"BenQ ZOWIE EC2-B"
+		],
+		"all_games" : 1,
+		"csgo" : 1,
+		"dota2" : 0,
+		"all_games_percent" : 0.24,
+		"csgo_percent" : 0.49,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "BenQ ZOWIE EC2-A",
+		"brands" : [
+			"BenQ",
+			"ZOWIE"
+		],
+		"ASIN" : "B01D2BBZMU",
+		"one_series_with" : "B00S9SH7C4",
+		"ya_market_number" : "12845276",
+		"model_year" : null,
+		"mouse_sensor" : "optical",
+		"mouse_sensor_model" : null,
+		"mouse_form" : "ergonomic",
+		"mouse_wire" : "wired",
+		"device_type" : "mouse",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			"BenQ ZOWIE EC1-A",
+			"BenQ ZOWIE EC1-B",
+			"BenQ ZOWIE EC2-B"
+		],
+		"all_games" : 40,
+		"csgo" : 39,
+		"dota2" : 1,
+		"all_games_percent" : 9.73,
+		"csgo_percent" : 19.12,
+		"dota2_percent" : 0.48,
+		"hide" : false
+	},
+	{
+		"title" : "BenQ ZOWIE EC2-B",
+		"brands" : [
+			"BenQ",
+			"ZOWIE"
+		],
+		"ASIN" : "B0771WQH6X",
+		"one_series_with" : "B00S9SH7C4",
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : "optical",
+		"mouse_sensor_model" : null,
+		"mouse_form" : "ergonomic",
+		"mouse_wire" : "wired",
+		"device_type" : "mouse",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			"BenQ ZOWIE EC1-A",
+			"BenQ ZOWIE EC1-B",
+			"BenQ ZOWIE EC2-A"
+		],
+		"all_games" : 12,
+		"csgo" : 12,
+		"dota2" : 0,
+		"all_games_percent" : 2.92,
+		"csgo_percent" : 5.88,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "BenQ ZOWIE FK1",
+		"brands" : [
+			"BenQ",
+			"ZOWIE"
+		],
+		"ASIN" : "B00LHRTO5W",
+		"one_series_with" : "B00LHRTO5W",
+		"ya_market_number" : "11553913",
+		"model_year" : null,
+		"mouse_sensor" : "optical",
+		"mouse_sensor_model" : null,
+		"mouse_form" : "ambidextrous",
+		"mouse_wire" : "wired",
+		"device_type" : "mouse",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			"BenQ ZOWIE FK2"
+		],
+		"all_games" : 20,
+		"csgo" : 20,
+		"dota2" : 0,
+		"all_games_percent" : 4.87,
+		"csgo_percent" : 9.8,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "BenQ ZOWIE FK2",
+		"brands" : [
+			"BenQ",
+			"ZOWIE"
+		],
+		"ASIN" : "B00QIH1GD4",
+		"one_series_with" : "B00LHRTO5W",
+		"ya_market_number" : "12677514",
+		"model_year" : null,
+		"mouse_sensor" : "optical",
+		"mouse_sensor_model" : null,
+		"mouse_form" : "ambidextrous",
+		"mouse_wire" : "wired",
+		"device_type" : "mouse",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			"BenQ ZOWIE FK1"
+		],
+		"all_games" : 14,
+		"csgo" : 10,
+		"dota2" : 4,
+		"all_games_percent" : 3.41,
+		"csgo_percent" : 4.9,
+		"dota2_percent" : 1.93,
+		"hide" : false
+	},
+	{
+		"title" : "BenQ ZOWIE ZA11",
+		"brands" : [
+			"BenQ",
+			"ZOWIE"
+		],
+		"ASIN" : "B012B6XWL4",
+		"one_series_with" : "B012B6XWL4",
+		"ya_market_number" : "12845282",
+		"model_year" : null,
+		"mouse_sensor" : "optical",
+		"mouse_sensor_model" : null,
+		"mouse_form" : "ambidextrous",
+		"mouse_wire" : "wired",
+		"device_type" : "mouse",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			"BenQ ZOWIE ZA12",
+			"BenQ ZOWIE ZA13"
+		],
+		"all_games" : 1,
+		"csgo" : 1,
+		"dota2" : 0,
+		"all_games_percent" : 0.24,
+		"csgo_percent" : 0.49,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "BenQ ZOWIE ZA12",
+		"brands" : [
+			"BenQ",
+			"ZOWIE"
+		],
+		"ASIN" : "B012B6XWA0",
+		"one_series_with" : "B012B6XWL4",
+		"ya_market_number" : "12845284",
+		"model_year" : null,
+		"mouse_sensor" : "optical",
+		"mouse_sensor_model" : null,
+		"mouse_form" : "ambidextrous",
+		"mouse_wire" : "wired",
+		"device_type" : "mouse",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			"BenQ ZOWIE ZA11",
+			"BenQ ZOWIE ZA13"
+		],
+		"all_games" : 14,
+		"csgo" : 14,
+		"dota2" : 0,
+		"all_games_percent" : 3.41,
+		"csgo_percent" : 6.86,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "BenQ ZOWIE ZA13",
+		"brands" : [
+			"BenQ",
+			"ZOWIE"
+		],
+		"ASIN" : "B012B6XVKQ",
+		"one_series_with" : "B012B6XWL4",
+		"ya_market_number" : "12845287",
+		"model_year" : null,
+		"mouse_sensor" : "optical",
+		"mouse_sensor_model" : null,
+		"mouse_form" : "ambidextrous",
+		"mouse_wire" : "wired",
+		"device_type" : "mouse",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			"BenQ ZOWIE ZA11",
+			"BenQ ZOWIE ZA12"
+		],
+		"all_games" : 12,
+		"csgo" : 12,
+		"dota2" : 0,
+		"all_games_percent" : 2.92,
+		"csgo_percent" : 5.88,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "Fnatic Gear Flick",
+		"brands" : [
+			"Fnatic"
+		],
+		"ASIN" : "B0772WTMS6",
+		"one_series_with" : null,
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : "optical",
+		"mouse_sensor_model" : null,
+		"mouse_form" : "ergonomic",
+		"mouse_wire" : "wired",
+		"device_type" : "mouse",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			null
+		],
+		"all_games" : 1,
+		"csgo" : 1,
+		"dota2" : 0,
+		"all_games_percent" : 0.24,
+		"csgo_percent" : 0.49,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "Logitech G Pro Mouse",
+		"brands" : [
+			"Logitech"
+		],
+		"ASIN" : "B01JPOLLTK",
+		"one_series_with" : null,
+		"ya_market_number" : "1721637568",
+		"model_year" : null,
+		"mouse_sensor" : "optical",
+		"mouse_sensor_model" : null,
+		"mouse_form" : "ambidextrous",
+		"mouse_wire" : "wired",
+		"device_type" : "mouse",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			null
+		],
+		"all_games" : 4,
+		"csgo" : 4,
+		"dota2" : 0,
+		"all_games_percent" : 0.97,
+		"csgo_percent" : 1.96,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "Logitech G303",
+		"brands" : [
+			"Logitech"
+		],
+		"ASIN" : "B00TKFD51M",
+		"one_series_with" : null,
+		"ya_market_number" : "12526294",
+		"model_year" : null,
+		"mouse_sensor" : "optical",
+		"mouse_sensor_model" : null,
+		"mouse_form" : "ambidextrous",
+		"mouse_wire" : "wired",
+		"device_type" : "mouse",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			null
+		],
+		"all_games" : 1,
+		"csgo" : 1,
+		"dota2" : 0,
+		"all_games_percent" : 0.24,
+		"csgo_percent" : 0.49,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "Logitech G402",
+		"brands" : [
+			"Logitech"
+		],
+		"ASIN" : "B00LZVNWIA",
+		"one_series_with" : null,
+		"ya_market_number" : "11151114",
+		"model_year" : null,
+		"mouse_sensor" : "optical",
+		"mouse_sensor_model" : null,
+		"mouse_form" : "ergonomic",
+		"mouse_wire" : "wired",
+		"device_type" : "mouse",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			null
+		],
+		"all_games" : null,
+		"csgo" : null,
+		"dota2" : null,
+		"all_games_percent" : null,
+		"csgo_percent" : null,
+		"dota2_percent" : null,
+		"hide" : true
+	},
+	{
+		"title" : "Logitech G403",
+		"brands" : [
+			"Logitech"
+		],
+		"ASIN" : "B01KUAMCV4",
+		"one_series_with" : "B01KUAMCV4",
+		"ya_market_number" : "1711284876",
+		"model_year" : null,
+		"mouse_sensor" : "optical",
+		"mouse_sensor_model" : null,
+		"mouse_form" : "ergonomic",
+		"mouse_wire" : "wired",
+		"device_type" : "mouse",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			"Logitech G403 Wireless"
+		],
+		"all_games" : 7,
+		"csgo" : 7,
+		"dota2" : 0,
+		"all_games_percent" : 1.7,
+		"csgo_percent" : 3.43,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "Logitech G403 Wireless",
+		"brands" : [
+			"Logitech"
+		],
+		"ASIN" : "B01KUAMCWI",
+		"one_series_with" : "B01KUAMCV4",
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : "optical",
+		"mouse_sensor_model" : null,
+		"mouse_form" : "ergonomic",
+		"mouse_wire" : "wireless",
+		"device_type" : "mouse",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			"Logitech G403"
+		],
+		"all_games" : 1,
+		"csgo" : 1,
+		"dota2" : 0,
+		"all_games_percent" : 0.24,
+		"csgo_percent" : 0.49,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "Logitech G502 Proteus Core",
+		"brands" : [
+			"Logitech"
+		],
+		"ASIN" : "B00IRHE892",
+		"one_series_with" : "B00IRHE892",
+		"ya_market_number" : "10793276",
+		"model_year" : null,
+		"mouse_sensor" : "optical",
+		"mouse_sensor_model" : null,
+		"mouse_form" : "ergonomic",
+		"mouse_wire" : "wired",
+		"device_type" : "mouse",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			"Logitech G502 Proteus Spectrum"
+		],
+		"all_games" : null,
+		"csgo" : null,
+		"dota2" : null,
+		"all_games_percent" : null,
+		"csgo_percent" : null,
+		"dota2_percent" : null,
+		"hide" : true
+	},
+	{
+		"title" : "Logitech G502 Proteus Spectrum",
+		"brands" : [
+			"Logitech"
+		],
+		"ASIN" : "B019OB663A",
+		"one_series_with" : "B00IRHE892",
+		"ya_market_number" : "1729357679",
+		"model_year" : null,
+		"mouse_sensor" : "optical",
+		"mouse_sensor_model" : "PMW3366",
+		"mouse_form" : "ergonomic",
+		"mouse_wire" : "wired",
+		"device_type" : "mouse",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			"Logitech G502 Proteus Core"
+		],
+		"all_games" : null,
+		"csgo" : null,
+		"dota2" : null,
+		"all_games_percent" : null,
+		"csgo_percent" : null,
+		"dota2_percent" : null,
+		"hide" : true
+	},
+	{
+		"title" : "Logitech G703",
+		"brands" : [
+			"Logitech"
+		],
+		"ASIN" : "B071S8M8TB",
+		"one_series_with" : null,
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : "optical",
+		"mouse_sensor_model" : "PMW3366",
+		"mouse_form" : "ergonomic",
+		"mouse_wire" : "wireless",
+		"device_type" : "mouse",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			null
+		],
+		"all_games" : 3,
+		"csgo" : 3,
+		"dota2" : 0,
+		"all_games_percent" : 0.73,
+		"csgo_percent" : 1.47,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "Razer DeathAdder Chroma",
+		"brands" : [
+			"Razer"
+		],
+		"ASIN" : "B00MYTSDU4",
+		"one_series_with" : null,
+		"ya_market_number" : "11756047",
+		"model_year" : null,
+		"mouse_sensor" : "optical",
+		"mouse_sensor_model" : null,
+		"mouse_form" : "ergonomic",
+		"mouse_wire" : "wired",
+		"device_type" : "mouse",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			null
+		],
+		"all_games" : 5,
+		"csgo" : 5,
+		"dota2" : 0,
+		"all_games_percent" : 1.22,
+		"csgo_percent" : 2.45,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "Razer DeathAdder Elite",
+		"brands" : [
+			"Razer"
+		],
+		"ASIN" : "B01LXC1QL0",
+		"one_series_with" : null,
+		"ya_market_number" : "1715087924",
+		"model_year" : null,
+		"mouse_sensor" : "optical",
+		"mouse_sensor_model" : null,
+		"mouse_form" : "ergonomic",
+		"mouse_wire" : "wired",
+		"device_type" : "mouse",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			null
+		],
+		"all_games" : 4,
+		"csgo" : 4,
+		"dota2" : 0,
+		"all_games_percent" : 0.97,
+		"csgo_percent" : 1.96,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "ROCCAT KONE XTD",
+		"brands" : [
+			"ROCCAT"
+		],
+		"ASIN" : "B009DYOPK0",
+		"one_series_with" : null,
+		"ya_market_number" : "10847154",
+		"model_year" : null,
+		"mouse_sensor" : "optical;laser",
+		"mouse_sensor_model" : null,
+		"mouse_form" : "ergonomic",
+		"mouse_wire" : "wired",
+		"device_type" : "mouse",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			null
+		],
+		"all_games" : null,
+		"csgo" : null,
+		"dota2" : null,
+		"all_games_percent" : null,
+		"csgo_percent" : null,
+		"dota2_percent" : null,
+		"hide" : true
+	},
+	{
+		"title" : "SteelSeries Rival 300",
+		"brands" : [
+			"SteelSeries"
+		],
+		"ASIN" : "B0160USMW6",
+		"one_series_with" : "B073WGFLQY",
+		"ya_market_number" : "13196303",
+		"model_year" : null,
+		"mouse_sensor" : "optical",
+		"mouse_sensor_model" : null,
+		"mouse_form" : "ergonomic",
+		"mouse_wire" : "wired",
+		"device_type" : "mouse",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			"SteelSeries Rival 310"
+		],
+		"all_games" : 2,
+		"csgo" : 2,
+		"dota2" : 0,
+		"all_games_percent" : 0.49,
+		"csgo_percent" : 0.98,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "SteelSeries Rival 310",
+		"brands" : [
+			"SteelSeries"
+		],
+		"ASIN" : "B073WGFLQY",
+		"one_series_with" : "B073WGFLQY",
+		"ya_market_number" : "1826863457",
+		"model_year" : null,
+		"mouse_sensor" : "optical",
+		"mouse_sensor_model" : null,
+		"mouse_form" : "ergonomic",
+		"mouse_wire" : "wired",
+		"device_type" : "mouse",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			"SteelSeries Rival 300"
+		],
+		"all_games" : 2,
+		"csgo" : 2,
+		"dota2" : 0,
+		"all_games_percent" : 0.49,
+		"csgo_percent" : 0.98,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "SteelSeries Sensei",
+		"brands" : [
+			"SteelSeries"
+		],
+		"ASIN" : "B005HGCNU2",
+		"one_series_with" : "B007N6HS3G",
+		"ya_market_number" : "7892619",
+		"model_year" : null,
+		"mouse_sensor" : "laser",
+		"mouse_sensor_model" : null,
+		"mouse_form" : "ambidextrous",
+		"mouse_wire" : "wired",
+		"device_type" : "mouse",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			"SteelSeries Sensei RAW"
+		],
+		"all_games" : null,
+		"csgo" : null,
+		"dota2" : null,
+		"all_games_percent" : null,
+		"csgo_percent" : null,
+		"dota2_percent" : null,
+		"hide" : true
+	},
+	{
+		"title" : "SteelSeries Sensei 310",
+		"brands" : [
+			"SteelSeries"
+		],
+		"ASIN" : "B073WGB8G6",
+		"one_series_with" : null,
+		"ya_market_number" : "40656770",
+		"model_year" : null,
+		"mouse_sensor" : "optical",
+		"mouse_sensor_model" : null,
+		"mouse_form" : "ambidextrous",
+		"mouse_wire" : "wired",
+		"device_type" : "mouse",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			null
+		],
+		"all_games" : 1,
+		"csgo" : 1,
+		"dota2" : 0,
+		"all_games_percent" : 0.24,
+		"csgo_percent" : 0.49,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "SteelSeries Sensei RAW",
+		"brands" : [
+			"SteelSeries"
+		],
+		"ASIN" : "B007N6HS3G",
+		"one_series_with" : "B007N6HS3G",
+		"ya_market_number" : "7896531",
+		"model_year" : null,
+		"mouse_sensor" : "laser",
+		"mouse_sensor_model" : null,
+		"mouse_form" : "ambidextrous",
+		"mouse_wire" : "wired",
+		"device_type" : "mouse",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			"SteelSeries Sensei"
+		],
+		"all_games" : 5,
+		"csgo" : 5,
+		"dota2" : 0,
+		"all_games_percent" : 1.22,
+		"csgo_percent" : 2.45,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "SteelSeries Rival 110",
+		"brands" : [
+			"SteelSeries"
+		],
+		"ASIN" : "B075LD4YY6",
+		"one_series_with" : "B075LD4YY6",
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : "optical",
+		"mouse_sensor_model" : null,
+		"mouse_form" : "ambidextrous",
+		"mouse_wire" : "wired",
+		"device_type" : "mouse",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			"SteelSeries Rival 100"
+		],
+		"all_games" : null,
+		"csgo" : null,
+		"dota2" : null,
+		"all_games_percent" : null,
+		"csgo_percent" : null,
+		"dota2_percent" : null,
+		"hide" : true
+	},
+	{
+		"title" : "SteelSeries Rival 100",
+		"brands" : [
+			"SteelSeries"
+		],
+		"ASIN" : "B015WKY3FU",
+		"one_series_with" : "B075LD4YY6",
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : "optical",
+		"mouse_sensor_model" : null,
+		"mouse_form" : "ambidextrous",
+		"mouse_wire" : "wired",
+		"device_type" : "mouse",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			"SteelSeries Rival 110"
+		],
+		"all_games" : 1,
+		"csgo" : 1,
+		"dota2" : 0,
+		"all_games_percent" : 0.24,
+		"csgo_percent" : 0.49,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "SteelSeries Rival 600",
+		"brands" : [
+			"SteelSeries"
+		],
+		"ASIN" : "B078LJ6RPK",
+		"one_series_with" : null,
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : "optical",
+		"mouse_sensor_model" : null,
+		"mouse_form" : "ambidextrous",
+		"mouse_wire" : "wired",
+		"device_type" : "mouse",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			null
+		],
+		"all_games" : null,
+		"csgo" : null,
+		"dota2" : null,
+		"all_games_percent" : null,
+		"csgo_percent" : null,
+		"dota2_percent" : null,
+		"hide" : true
+	},
+	{
+		"title" : "SteelSeries Rival",
+		"brands" : [
+			"SteelSeries"
+		],
+		"ASIN" : "B00FAN4M3S",
+		"one_series_with" : null,
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : "optical",
+		"mouse_sensor_model" : null,
+		"mouse_form" : "ergonomic",
+		"mouse_wire" : "wired",
+		"device_type" : "mouse",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			null
+		],
+		"all_games" : 1,
+		"csgo" : 1,
+		"dota2" : 0,
+		"all_games_percent" : 0.24,
+		"csgo_percent" : 0.49,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "BenQ ZOWIE G-SR",
+		"brands" : [
+			"BenQ",
+			"ZOWIE"
+		],
+		"ASIN" : "B00T56XWZU",
+		"one_series_with" : null,
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "mousepad",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			null
+		],
+		"all_games" : 60,
+		"csgo" : 55,
+		"dota2" : 5,
+		"all_games_percent" : 14.6,
+		"csgo_percent" : 26.96,
+		"dota2_percent" : 2.42,
+		"hide" : false
+	},
+	{
+		"title" : "CORSAIR MM200",
+		"brands" : [
+			"Corsair"
+		],
+		"ASIN" : "B014W1Z890",
+		"one_series_with" : null,
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "mousepad",
+		"mousepad_positioning" : "control",
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			null
+		],
+		"all_games" : null,
+		"csgo" : null,
+		"dota2" : null,
+		"all_games_percent" : null,
+		"csgo_percent" : null,
+		"dota2_percent" : null,
+		"hide" : true
+	},
+	{
+		"title" : "CORSAIR MM300",
+		"brands" : [
+			"Corsair"
+		],
+		"ASIN" : "B01798VS4C",
+		"one_series_with" : null,
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "mousepad",
+		"mousepad_positioning" : "control",
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			null
+		],
+		"all_games" : 2,
+		"csgo" : 2,
+		"dota2" : 0,
+		"all_games_percent" : 0.49,
+		"csgo_percent" : 0.98,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "Fnatic Gear Boost Control",
+		"brands" : [
+			"Fnatic"
+		],
+		"ASIN" : "B01A9GK982",
+		"one_series_with" : null,
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "mousepad",
+		"mousepad_positioning" : "control",
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			null
+		],
+		"all_games" : null,
+		"csgo" : null,
+		"dota2" : null,
+		"all_games_percent" : null,
+		"csgo_percent" : null,
+		"dota2_percent" : null,
+		"hide" : true
+	},
+	{
+		"title" : "Fnatic Gear Boost Speed",
+		"brands" : [
+			"Fnatic"
+		],
+		"ASIN" : "B01LWP1K4H",
+		"one_series_with" : null,
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "mousepad",
+		"mousepad_positioning" : "speed",
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			null
+		],
+		"all_games" : null,
+		"csgo" : null,
+		"dota2" : null,
+		"all_games_percent" : null,
+		"csgo_percent" : null,
+		"dota2_percent" : null,
+		"hide" : true
+	},
+	{
+		"title" : "Fnatic Gear Focus Pro",
+		"brands" : [
+			"Fnatic"
+		],
+		"ASIN" : "B01A9GN22W",
+		"one_series_with" : null,
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "mousepad",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			null
+		],
+		"all_games" : 1,
+		"csgo" : 1,
+		"dota2" : 0,
+		"all_games_percent" : 0.24,
+		"csgo_percent" : 0.49,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "HyperX FURY Pro",
+		"brands" : [
+			"HyperX"
+		],
+		"ASIN" : "B00TY6A1FA",
+		"one_series_with" : null,
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "mousepad",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			null
+		],
+		"all_games" : 2,
+		"csgo" : 2,
+		"dota2" : 0,
+		"all_games_percent" : 0.49,
+		"csgo_percent" : 0.98,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "HyperX FURY S",
+		"brands" : [
+			"HyperX"
+		],
+		"ASIN" : "B072J47KJC",
+		"one_series_with" : null,
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "mousepad",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			null
+		],
+		"all_games" : 4,
+		"csgo" : 4,
+		"dota2" : 0,
+		"all_games_percent" : 0.97,
+		"csgo_percent" : 1.96,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "Logitech G240",
+		"brands" : [
+			"Logitech"
+		],
+		"ASIN" : "B01H74VPX2",
+		"one_series_with" : null,
+		"ya_market_number" : "1729320876",
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "mousepad",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			null
+		],
+		"all_games" : 1,
+		"csgo" : 1,
+		"dota2" : 0,
+		"all_games_percent" : 0.24,
+		"csgo_percent" : 0.49,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "Logitech G640",
+		"brands" : [
+			"Logitech"
+		],
+		"ASIN" : "B01N2B0QOY",
+		"one_series_with" : null,
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "mousepad",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			null
+		],
+		"all_games" : 5,
+		"csgo" : 5,
+		"dota2" : 0,
+		"all_games_percent" : 1.22,
+		"csgo_percent" : 2.45,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "Razer Goliathus Control",
+		"brands" : [
+			"Razer"
+		],
+		"ASIN" : "B00EUPKBVY",
+		"one_series_with" : null,
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "mousepad",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			null
+		],
+		"all_games" : 3,
+		"csgo" : 3,
+		"dota2" : 0,
+		"all_games_percent" : 0.73,
+		"csgo_percent" : 1.47,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "Razer Goliathus Control Gravity",
+		"brands" : [
+			"Razer"
+		],
+		"ASIN" : "B01M0HU4YN",
+		"one_series_with" : null,
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "mousepad",
+		"mousepad_positioning" : "control",
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			null
+		],
+		"all_games" : null,
+		"csgo" : null,
+		"dota2" : null,
+		"all_games_percent" : null,
+		"csgo_percent" : null,
+		"dota2_percent" : null,
+		"hide" : true
+	},
+	{
+		"title" : "Razer Goliathus Speed",
+		"brands" : [
+			"Razer"
+		],
+		"ASIN" : "B00EUPS2D8",
+		"one_series_with" : null,
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "mousepad",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			null
+		],
+		"all_games" : 6,
+		"csgo" : 6,
+		"dota2" : 0,
+		"all_games_percent" : 1.46,
+		"csgo_percent" : 2.94,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "Razer Goliathus Speed Cosmic",
+		"brands" : [
+			"Razer"
+		],
+		"ASIN" : "B01LYV7U25",
+		"one_series_with" : "B01LYV7U25",
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "mousepad",
+		"mousepad_positioning" : "speed",
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			"Razer Goliathus Speed Terra"
+		],
+		"all_games" : null,
+		"csgo" : null,
+		"dota2" : null,
+		"all_games_percent" : null,
+		"csgo_percent" : null,
+		"dota2_percent" : null,
+		"hide" : true
+	},
+	{
+		"title" : "Razer Goliathus Speed Terra",
+		"brands" : [
+			"Razer"
+		],
+		"ASIN" : "B01M1GTIYA",
+		"one_series_with" : "B01LYV7U25",
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "mousepad",
+		"mousepad_positioning" : "speed",
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			"Razer Goliathus Speed Cosmic"
+		],
+		"all_games" : null,
+		"csgo" : null,
+		"dota2" : null,
+		"all_games_percent" : null,
+		"csgo_percent" : null,
+		"dota2_percent" : null,
+		"hide" : true
+	},
+	{
+		"title" : "ROCCAT TAITO Control",
+		"brands" : [
+			"ROCCAT"
+		],
+		"ASIN" : "B0102OA1BG",
+		"one_series_with" : null,
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "mousepad",
+		"mousepad_positioning" : "control",
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			null
+		],
+		"all_games" : null,
+		"csgo" : null,
+		"dota2" : null,
+		"all_games_percent" : null,
+		"csgo_percent" : null,
+		"dota2_percent" : null,
+		"hide" : true
+	},
+	{
+		"title" : "SteelSeries QcK",
+		"brands" : [
+			"SteelSeries"
+		],
+		"ASIN" : "B000UEZ36W",
+		"one_series_with" : "B000UEZ36W",
+		"ya_market_number" : "1729321420",
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "mousepad",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			"SteelSeries QcK Heavy",
+			"SteelSeries QcK+"
+		],
+		"all_games" : 16,
+		"csgo" : 16,
+		"dota2" : 0,
+		"all_games_percent" : 3.89,
+		"csgo_percent" : 7.84,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "SteelSeries QcK Heavy",
+		"brands" : [
+			"SteelSeries"
+		],
+		"ASIN" : "B000V7ARAU",
+		"one_series_with" : "B000UEZ36W",
+		"ya_market_number" : "1947072394",
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "mousepad",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			"SteelSeries QcK",
+			"SteelSeries QcK+"
+		],
+		"all_games" : 48,
+		"csgo" : 48,
+		"dota2" : 0,
+		"all_games_percent" : 11.68,
+		"csgo_percent" : 23.53,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "SteelSeries QcK Limited",
+		"brands" : [
+			"SteelSeries"
+		],
+		"ASIN" : "B01MXTQ9EC",
+		"one_series_with" : "B01MXTQ9EC",
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "mousepad",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			"SteelSeries QcK+ Limited"
+		],
+		"all_games" : null,
+		"csgo" : null,
+		"dota2" : null,
+		"all_games_percent" : null,
+		"csgo_percent" : null,
+		"dota2_percent" : null,
+		"hide" : true
+	},
+	{
+		"title" : "SteelSeries QcK Prism",
+		"brands" : [
+			"SteelSeries"
+		],
+		"ASIN" : "B06XT1ZNQF",
+		"one_series_with" : null,
+		"ya_market_number" : "1976835295",
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "mousepad",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			null
+		],
+		"all_games" : null,
+		"csgo" : null,
+		"dota2" : null,
+		"all_games_percent" : null,
+		"csgo_percent" : null,
+		"dota2_percent" : null,
+		"hide" : true
+	},
+	{
+		"title" : "SteelSeries QcK+",
+		"brands" : [
+			"SteelSeries"
+		],
+		"ASIN" : "B000UVRU6G",
+		"one_series_with" : "B000UEZ36W",
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "mousepad",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			"SteelSeries QcK Heavy",
+			"SteelSeries QcK+"
+		],
+		"all_games" : 16,
+		"csgo" : 16,
+		"dota2" : 0,
+		"all_games_percent" : 3.89,
+		"csgo_percent" : 7.84,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "SteelSeries QcK+ Limited",
+		"brands" : [
+			"SteelSeries"
+		],
+		"ASIN" : "B01N5AV8EI",
+		"one_series_with" : "B01MXTQ9EC",
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "mousepad",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			"SteelSeries QcK+ Limited"
+		],
+		"all_games" : null,
+		"csgo" : null,
+		"dota2" : null,
+		"all_games_percent" : null,
+		"csgo_percent" : null,
+		"dota2_percent" : null,
+		"hide" : true
+	},
+	{
+		"title" : "XTRFY XTP1",
+		"brands" : [
+			"XTRFY"
+		],
+		"ASIN" : "B073TVMT7F",
+		"one_series_with" : null,
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "mousepad",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			null
+		],
+		"all_games" : 7,
+		"csgo" : 7,
+		"dota2" : 0,
+		"all_games_percent" : 1.7,
+		"csgo_percent" : 3.43,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "CM Storm QuickFire Pro",
+		"brands" : [
+			"Cooler Master"
+		],
+		"ASIN" : "B007VDOOBU",
+		"one_series_with" : null,
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "keyboard",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : "Cherry MX",
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			null
+		],
+		"all_games" : null,
+		"csgo" : null,
+		"dota2" : null,
+		"all_games_percent" : null,
+		"csgo_percent" : null,
+		"dota2_percent" : null,
+		"hide" : true
+	},
+	{
+		"title" : "CM Storm QuickFire TK",
+		"brands" : [
+			"Cooler Master"
+		],
+		"ASIN" : "B00A378L4C",
+		"one_series_with" : null,
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "keyboard",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : "Cherry MX",
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			null
+		],
+		"all_games" : 2,
+		"csgo" : 2,
+		"dota2" : 0,
+		"all_games_percent" : 0.49,
+		"csgo_percent" : 0.98,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "Corsair K65 RGB",
+		"brands" : [
+			"Corsair"
+		],
+		"ASIN" : "B01F74F00I",
+		"one_series_with" : "B01F74F00I",
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "keyboard",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			"Corsair K65 RGB Rapidfire"
+		],
+		"all_games" : 5,
+		"csgo" : 5,
+		"dota2" : 0,
+		"all_games_percent" : 1.22,
+		"csgo_percent" : 2.45,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "Corsair K65 RGB Rapidfire",
+		"brands" : [
+			"Corsair"
+		],
+		"ASIN" : "B01F5XGMWQ",
+		"one_series_with" : "B01F74F00I",
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "keyboard",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			"Corsair K65 RGB"
+		],
+		"all_games" : 1,
+		"csgo" : 1,
+		"dota2" : 0,
+		"all_games_percent" : 0.24,
+		"csgo_percent" : 0.49,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "Corsair K70 LUX",
+		"brands" : [
+			"Corsair"
+		],
+		"ASIN" : "B01ER4B7K6",
+		"one_series_with" : "B01D8H09TS",
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "keyboard",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : "Cherry MX",
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			"Corsair K70 LUX RGB",
+			"Corsair K70 RAPIDFIRE",
+			"Corsair K70 RGB RAPIDFIRE"
+		],
+		"all_games" : 1,
+		"csgo" : 1,
+		"dota2" : 0,
+		"all_games_percent" : 0.24,
+		"csgo_percent" : 0.49,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "Corsair K70 LUX RGB",
+		"brands" : [
+			"Corsair"
+		],
+		"ASIN" : "B01ER4B7YM",
+		"one_series_with" : "B01D8H09TS",
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "keyboard",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : "Cherry MX",
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			"Corsair K70 LUX",
+			"Corsair K70 RAPIDFIRE",
+			"Corsair K70 RGB RAPIDFIRE"
+		],
+		"all_games" : 3,
+		"csgo" : 3,
+		"dota2" : 0,
+		"all_games_percent" : 0.73,
+		"csgo_percent" : 1.47,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "Corsair K70 RAPIDFIRE",
+		"brands" : [
+			"Corsair"
+		],
+		"ASIN" : "B01D8H09LQ",
+		"one_series_with" : "B01D8H09TS",
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "keyboard",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : "Cherry MX",
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			"Corsair K70 LUX",
+			"Corsair K70 LUX RGB",
+			"Corsair K70 RGB RAPIDFIRE"
+		],
+		"all_games" : null,
+		"csgo" : null,
+		"dota2" : null,
+		"all_games_percent" : null,
+		"csgo_percent" : null,
+		"dota2_percent" : null,
+		"hide" : true
+	},
+	{
+		"title" : "Corsair K70 RGB RAPIDFIRE",
+		"brands" : [
+			"Corsair"
+		],
+		"ASIN" : "B01D8H09TS",
+		"one_series_with" : "B01D8H09TS",
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "keyboard",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : "Cherry MX",
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			"Corsair K70 LUX",
+			"Corsair K70 LUX RGB",
+			"Corsair K70 RAPIDFIRE"
+		],
+		"all_games" : 1,
+		"csgo" : 1,
+		"dota2" : 0,
+		"all_games_percent" : 0.24,
+		"csgo_percent" : 0.49,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "Corsair STRAFE",
+		"brands" : [
+			"Corsair"
+		],
+		"ASIN" : "B00ZUPOMDQ",
+		"one_series_with" : "B00ZUPOMDQ",
+		"ya_market_number" : null,
+		"model_year" : 2005,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "keyboard",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : "Cherry MX",
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			"Corsair STRAFE RGB"
+		],
+		"all_games" : 2,
+		"csgo" : 2,
+		"dota2" : 0,
+		"all_games_percent" : 0.49,
+		"csgo_percent" : 0.98,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "Corsair STRAFE RGB",
+		"brands" : [
+			"Corsair"
+		],
+		"ASIN" : "B014W3FGYU",
+		"one_series_with" : "B00ZUPOMDQ",
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "keyboard",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : "Cherry MX",
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			"Corsair STRAFE"
+		],
+		"all_games" : null,
+		"csgo" : null,
+		"dota2" : null,
+		"all_games_percent" : null,
+		"csgo_percent" : null,
+		"dota2_percent" : null,
+		"hide" : true
+	},
+	{
+		"title" : "Fnatic Gear Rush G1",
+		"brands" : [
+			"Fnatic"
+		],
+		"ASIN" : "B06WGM2TR8",
+		"one_series_with" : null,
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "keyboard",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : "Cherry MX",
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			null
+		],
+		"all_games" : 5,
+		"csgo" : 5,
+		"dota2" : 0,
+		"all_games_percent" : 1.22,
+		"csgo_percent" : 2.45,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "Fnatic Gear Rush Pro",
+		"brands" : [
+			"Fnatic"
+		],
+		"ASIN" : "B01DKZGTOW",
+		"one_series_with" : null,
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "keyboard",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : "Cherry MX",
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			null
+		],
+		"all_games" : 1,
+		"csgo" : 1,
+		"dota2" : 0,
+		"all_games_percent" : 0.24,
+		"csgo_percent" : 0.49,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "HyperX Alloy FPS",
+		"brands" : [
+			"HyperX"
+		],
+		"ASIN" : "B01NCX88FQ",
+		"one_series_with" : "B01NCX88FQ",
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "keyboard",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : "Cherry MX",
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			"HyperX Alloy FPS Pro"
+		],
+		"all_games" : 20,
+		"csgo" : 20,
+		"dota2" : 0,
+		"all_games_percent" : 4.87,
+		"csgo_percent" : 9.8,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "HyperX Alloy FPS Pro",
+		"brands" : [
+			"HyperX"
+		],
+		"ASIN" : "B074F5L8GQ",
+		"one_series_with" : "B01NCX88FQ",
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "keyboard",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : "Cherry MX",
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			"HyperX Alloy FPS"
+		],
+		"all_games" : 13,
+		"csgo" : 13,
+		"dota2" : 0,
+		"all_games_percent" : 3.16,
+		"csgo_percent" : 6.37,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "Logitech G Pro Mechanical Gaming Keyboard",
+		"brands" : [
+			"Logitech"
+		],
+		"ASIN" : "B06XMRQ68B",
+		"one_series_with" : null,
+		"ya_market_number" : "1942475261",
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "keyboard",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : "Logitech Switches",
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			null
+		],
+		"all_games" : null,
+		"csgo" : null,
+		"dota2" : null,
+		"all_games_percent" : null,
+		"csgo_percent" : null,
+		"dota2_percent" : null,
+		"hide" : true
+	},
+	{
+		"title" : "Logitech G513",
+		"brands" : [
+			"Logitech"
+		],
+		"ASIN" : "B07B2XCDMV",
+		"one_series_with" : null,
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "keyboard",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : "Logitech Switches",
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			null
+		],
+		"all_games" : null,
+		"csgo" : null,
+		"dota2" : null,
+		"all_games_percent" : null,
+		"csgo_percent" : null,
+		"dota2_percent" : null,
+		"hide" : true
+	},
+	{
+		"title" : "Logitech G710",
+		"brands" : [
+			"Logitech"
+		],
+		"ASIN" : "B00QI2WPJ8",
+		"one_series_with" : "B00QI2WPJ8",
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "keyboard",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : "Cherry MX",
+		"keyswitches" : "Cherry MX Blue",
+		"headset_acoustics" : null,
+		"series" : [
+			"Logitech G710+"
+		],
+		"all_games" : 2,
+		"csgo" : 2,
+		"dota2" : 0,
+		"all_games_percent" : 0.49,
+		"csgo_percent" : 0.98,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "Logitech G710+",
+		"brands" : [
+			"Logitech"
+		],
+		"ASIN" : "B009C98NPY",
+		"one_series_with" : "B00QI2WPJ8",
+		"ya_market_number" : null,
+		"model_year" : 2012,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "keyboard",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : "Cherry MX",
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			"Logitech G710+"
+		],
+		"all_games" : 2,
+		"csgo" : 2,
+		"dota2" : 0,
+		"all_games_percent" : 0.49,
+		"csgo_percent" : 0.98,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "Logitech G810 Orion Spectrum",
+		"brands" : [
+			"Logitech"
+		],
+		"ASIN" : "B01BBKYM3I",
+		"one_series_with" : null,
+		"ya_market_number" : "13461375",
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "keyboard",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : "Logitech Switches",
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			null
+		],
+		"all_games" : 4,
+		"csgo" : 4,
+		"dota2" : 0,
+		"all_games_percent" : 0.97,
+		"csgo_percent" : 1.96,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "Logitech G910",
+		"brands" : [
+			"Logitech"
+		],
+		"ASIN" : "B00N3OELPU",
+		"one_series_with" : null,
+		"ya_market_number" : null,
+		"model_year" : 2014,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "keyboard",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			null
+		],
+		"all_games" : 1,
+		"csgo" : 1,
+		"dota2" : 0,
+		"all_games_percent" : 0.24,
+		"csgo_percent" : 0.49,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "Ozone Strike Pro",
+		"brands" : [
+			"Ozone"
+		],
+		"ASIN" : "B00I9VRQ54",
+		"one_series_with" : null,
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "keyboard",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			null
+		],
+		"all_games" : 1,
+		"csgo" : 1,
+		"dota2" : 0,
+		"all_games_percent" : 0.24,
+		"csgo_percent" : 0.49,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "Razer BlackWidow Chroma",
+		"brands" : [
+			"Razer"
+		],
+		"ASIN" : "B00MTWV0II",
+		"one_series_with" : "B00MTWV0II",
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "keyboard",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : "Razer Switches",
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			"Razer BlackWidow Chroma V2",
+			"Razer BlackWidow Tournament Edition",
+			"Razer Blackwidow Ultimate",
+			"Razer BlackWidow X Chroma"
+		],
+		"all_games" : 4,
+		"csgo" : 4,
+		"dota2" : 0,
+		"all_games_percent" : 0.97,
+		"csgo_percent" : 1.96,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "Razer BlackWidow Chroma V2",
+		"brands" : [
+			"Razer"
+		],
+		"ASIN" : "B01MYZYPYH",
+		"one_series_with" : "B00MTWV0II",
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "keyboard",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : "Razer Switches",
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			"Razer BlackWidow Chroma",
+			"Razer BlackWidow Tournament Edition",
+			"Razer Blackwidow Ultimate",
+			"Razer BlackWidow X Chroma"
+		],
+		"all_games" : 1,
+		"csgo" : 1,
+		"dota2" : 0,
+		"all_games_percent" : 0.24,
+		"csgo_percent" : 0.49,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "Razer BlackWidow Tournament Edition",
+		"brands" : [
+			"Razer"
+		],
+		"ASIN" : "B00IG3GPC0",
+		"one_series_with" : "B00MTWV0II",
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "keyboard",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			"Razer BlackWidow Chroma",
+			"Razer BlackWidow Chroma V2",
+			"Razer Blackwidow Ultimate",
+			"Razer BlackWidow X Chroma"
+		],
+		"all_games" : 2,
+		"csgo" : 2,
+		"dota2" : 0,
+		"all_games_percent" : 0.49,
+		"csgo_percent" : 0.98,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "Razer Blackwidow Ultimate",
+		"brands" : [
+			"Razer"
+		],
+		"ASIN" : "B0163H5F30",
+		"one_series_with" : "B00MTWV0II",
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "keyboard",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			"Razer BlackWidow Chroma",
+			"Razer BlackWidow Chroma V2",
+			"Razer BlackWidow Tournament Edition",
+			"Razer BlackWidow X Chroma"
+		],
+		"all_games" : 2,
+		"csgo" : 2,
+		"dota2" : 0,
+		"all_games_percent" : 0.49,
+		"csgo_percent" : 0.98,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "Razer BlackWidow X Chroma",
+		"brands" : [
+			"Razer"
+		],
+		"ASIN" : "B01CLJ2E1A",
+		"one_series_with" : "B00MTWV0II",
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "keyboard",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : "Razer Switches",
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			"Razer BlackWidow Chroma",
+			"Razer BlackWidow Chroma V2",
+			"Razer BlackWidow Tournament Edition",
+			"Razer Blackwidow Ultimate"
+		],
+		"all_games" : 5,
+		"csgo" : 5,
+		"dota2" : 0,
+		"all_games_percent" : 1.22,
+		"csgo_percent" : 2.45,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "ROCCAT Ryos MK Pro",
+		"brands" : [
+			"ROCCAT"
+		],
+		"ASIN" : "B00FB4BUI6",
+		"one_series_with" : null,
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "keyboard",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : "Cherry MX",
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			null
+		],
+		"all_games" : null,
+		"csgo" : null,
+		"dota2" : null,
+		"all_games_percent" : null,
+		"csgo_percent" : null,
+		"dota2_percent" : null,
+		"hide" : true
+	},
+	{
+		"title" : "SteelSeries 6Gv2",
+		"brands" : [
+			"SteelSeries"
+		],
+		"ASIN" : "B008OQTGBQ",
+		"one_series_with" : null,
+		"ya_market_number" : "6857541",
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "keyboard",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : "Cherry MX",
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			null
+		],
+		"all_games" : 10,
+		"csgo" : 10,
+		"dota2" : 0,
+		"all_games_percent" : 2.43,
+		"csgo_percent" : 4.9,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "SteelSeries Apex",
+		"brands" : [
+			"SteelSeries"
+		],
+		"ASIN" : "B00DQ5RGOY",
+		"one_series_with" : null,
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "keyboard",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			null
+		],
+		"all_games" : null,
+		"csgo" : null,
+		"dota2" : null,
+		"all_games_percent" : null,
+		"csgo_percent" : null,
+		"dota2_percent" : null,
+		"hide" : true
+	},
+	{
+		"title" : "SteelSeries Apex M500",
+		"brands" : [
+			"SteelSeries"
+		],
+		"ASIN" : "B01E17LW2W",
+		"one_series_with" : null,
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "keyboard",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : "Cherry MX",
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			null
+		],
+		"all_games" : 10,
+		"csgo" : 10,
+		"dota2" : 0,
+		"all_games_percent" : 2.43,
+		"csgo_percent" : 4.9,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "SteelSeries Apex M750",
+		"brands" : [
+			"SteelSeries"
+		],
+		"ASIN" : "B074536KKX",
+		"one_series_with" : null,
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "keyboard",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			null
+		],
+		"all_games" : 1,
+		"csgo" : 1,
+		"dota2" : 0,
+		"all_games_percent" : 0.24,
+		"csgo_percent" : 0.49,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "SteelSeries Apex M800",
+		"brands" : [
+			"SteelSeries"
+		],
+		"ASIN" : "B00SB6DO6M",
+		"one_series_with" : null,
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "keyboard",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : "SteelSeries Switches",
+		"keyswitches" : "SteelSeries QS1",
+		"headset_acoustics" : null,
+		"series" : [
+			null
+		],
+		"all_games" : null,
+		"csgo" : null,
+		"dota2" : null,
+		"all_games_percent" : null,
+		"csgo_percent" : null,
+		"dota2_percent" : null,
+		"hide" : true
+	},
+	{
+		"title" : "XTRFY K2-RGB",
+		"brands" : [
+			"XTRFY"
+		],
+		"ASIN" : "B071J9JYKH",
+		"one_series_with" : null,
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "keyboard",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : "Kailh",
+		"keyswitches" : "Kailh red",
+		"headset_acoustics" : null,
+		"series" : [
+			null
+		],
+		"all_games" : 8,
+		"csgo" : 8,
+		"dota2" : 0,
+		"all_games_percent" : 1.95,
+		"csgo_percent" : 3.92,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "ZOWIE CELERITAS II KEYBOARD",
+		"brands" : [
+			"ZOWIE"
+		],
+		"ASIN" : "B074WCFBWQ",
+		"one_series_with" : null,
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "keyboard",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			null
+		],
+		"all_games" : 14,
+		"csgo" : 14,
+		"dota2" : 0,
+		"all_games_percent" : 3.41,
+		"csgo_percent" : 6.86,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "Logitech G35",
+		"brands" : [
+			"Logitech"
+		],
+		"ASIN" : "B001O5CCQK",
+		"one_series_with" : null,
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "headset",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			null
+		],
+		"all_games" : 1,
+		"csgo" : 1,
+		"dota2" : 0,
+		"all_games_percent" : 0.24,
+		"csgo_percent" : 0.49,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "SteelSeries Siberia v2",
+		"brands" : [
+			"SteelSeries"
+		],
+		"ASIN" : "B002Q8IHDQ",
+		"one_series_with" : null,
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "headset",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : "closed",
+		"series" : [
+			null
+		],
+		"all_games" : 2,
+		"csgo" : 2,
+		"dota2" : 0,
+		"all_games_percent" : 0.49,
+		"csgo_percent" : 0.98,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "SteelSeries 7H Gaming Headset",
+		"brands" : [
+			"SteelSeries"
+		],
+		"ASIN" : "B005YR0XDS",
+		"one_series_with" : null,
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "headset",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			null
+		],
+		"all_games" : null,
+		"csgo" : null,
+		"dota2" : null,
+		"all_games_percent" : null,
+		"csgo_percent" : null,
+		"dota2_percent" : null,
+		"hide" : true
+	},
+	{
+		"title" : "QPAD QH-90",
+		"brands" : [
+			"QPAD"
+		],
+		"ASIN" : "B00BAFORW6",
+		"one_series_with" : null,
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "headset",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			null
+		],
+		"all_games" : 6,
+		"csgo" : 6,
+		"dota2" : 0,
+		"all_games_percent" : 1.46,
+		"csgo_percent" : 2.94,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "Logitech G430",
+		"brands" : [
+			"Logitech"
+		],
+		"ASIN" : "B00CQ35C1Q",
+		"one_series_with" : null,
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "headset",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			null
+		],
+		"all_games" : null,
+		"csgo" : null,
+		"dota2" : null,
+		"all_games_percent" : null,
+		"csgo_percent" : null,
+		"dota2_percent" : null,
+		"hide" : true
+	},
+	{
+		"title" : "ROCCAT KAVE XTD",
+		"brands" : [
+			"ROCCAT"
+		],
+		"ASIN" : "B00FEDP968",
+		"one_series_with" : null,
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "headset",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			null
+		],
+		"all_games" : null,
+		"csgo" : null,
+		"dota2" : null,
+		"all_games_percent" : null,
+		"csgo_percent" : null,
+		"dota2_percent" : null,
+		"hide" : true
+	},
+	{
+		"title" : "HyperX Cloud",
+		"brands" : [
+			"HyperX"
+		],
+		"ASIN" : "B00JJNQG98",
+		"one_series_with" : "B00SAYCXWG",
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "headset",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			"HyperX Cloud II"
+		],
+		"all_games" : 4,
+		"csgo" : 4,
+		"dota2" : 0,
+		"all_games_percent" : 0.97,
+		"csgo_percent" : 1.96,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "Sennheiser GAME ONE",
+		"brands" : [
+			"Sennheiser"
+		],
+		"ASIN" : "B00KK8ZLEC",
+		"one_series_with" : null,
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "headset",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			null
+		],
+		"all_games" : 2,
+		"csgo" : 2,
+		"dota2" : 0,
+		"all_games_percent" : 0.49,
+		"csgo_percent" : 0.98,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "Sennheiser Game Zero",
+		"brands" : [
+			"Sennheiser"
+		],
+		"ASIN" : "B00KNPYAEY",
+		"one_series_with" : null,
+		"ya_market_number" : "10670828",
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "headset",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : "closed",
+		"series" : [
+			null
+		],
+		"all_games" : 22,
+		"csgo" : 22,
+		"dota2" : 0,
+		"all_games_percent" : 5.35,
+		"csgo_percent" : 10.78,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "SteelSeries Siberia Elite Prism",
+		"brands" : [
+			"SteelSeries"
+		],
+		"ASIN" : "B00MSOEV6U",
+		"one_series_with" : null,
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "headset",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			null
+		],
+		"all_games" : null,
+		"csgo" : null,
+		"dota2" : null,
+		"all_games_percent" : null,
+		"csgo_percent" : null,
+		"dota2_percent" : null,
+		"hide" : true
+	},
+	{
+		"title" : "Razer Kraken 7.1 Chroma",
+		"brands" : [
+			"Razer"
+		],
+		"ASIN" : "B00MTWV0RO",
+		"one_series_with" : "B072DRCM1Q",
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "headset",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			"Razer Kraken 7.1 Chroma V2"
+		],
+		"all_games" : 1,
+		"csgo" : 1,
+		"dota2" : 0,
+		"all_games_percent" : 0.24,
+		"csgo_percent" : 0.49,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "HyperX Cloud II",
+		"brands" : [
+			"HyperX"
+		],
+		"ASIN" : "B00SAYCXWG",
+		"one_series_with" : "B00SAYCXWG",
+		"ya_market_number" : "12241651",
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "headset",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : "closed",
+		"series" : [
+			"HyperX Cloud"
+		],
+		"all_games" : 56,
+		"csgo" : 51,
+		"dota2" : 5,
+		"all_games_percent" : 13.63,
+		"csgo_percent" : 25,
+		"dota2_percent" : 2.42,
+		"hide" : false
+	},
+	{
+		"title" : "Logitech G633",
+		"brands" : [
+			"Logitech"
+		],
+		"ASIN" : "B013P0K8OE",
+		"one_series_with" : null,
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "headset",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			null
+		],
+		"all_games" : 2,
+		"csgo" : 2,
+		"dota2" : 0,
+		"all_games_percent" : 0.49,
+		"csgo_percent" : 0.98,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "Logitech G933 Artemis Spectrum",
+		"brands" : [
+			"Logitech"
+		],
+		"ASIN" : "B0148NPJ78",
+		"one_series_with" : null,
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "headset",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			null
+		],
+		"all_games" : null,
+		"csgo" : null,
+		"dota2" : null,
+		"all_games_percent" : null,
+		"csgo_percent" : null,
+		"dota2_percent" : null,
+		"hide" : true
+	},
+	{
+		"title" : "Astro A40",
+		"brands" : [
+			"Astro"
+		],
+		"ASIN" : "B014LH5LH4",
+		"one_series_with" : null,
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "headset",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			null
+		],
+		"all_games" : 4,
+		"csgo" : 4,
+		"dota2" : 0,
+		"all_games_percent" : 0.97,
+		"csgo_percent" : 1.96,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "SteelSeries Siberia 650",
+		"brands" : [
+			"SteelSeries"
+		],
+		"ASIN" : "B017BCW72I",
+		"one_series_with" : null,
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "headset",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : "closed",
+		"series" : [
+			null
+		],
+		"all_games" : 1,
+		"csgo" : 1,
+		"dota2" : 0,
+		"all_games_percent" : 0.24,
+		"csgo_percent" : 0.49,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "HyperX Cloud Revolver",
+		"brands" : [
+			"HyperX"
+		],
+		"ASIN" : "B01CIEBU54",
+		"one_series_with" : "B01CIEBU54",
+		"ya_market_number" : "13905698",
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "headset",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : "closed",
+		"series" : [
+			"HyperX Cloud Revolver S"
+		],
+		"all_games" : 4,
+		"csgo" : 4,
+		"dota2" : 0,
+		"all_games_percent" : 0.97,
+		"csgo_percent" : 1.96,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "Turtle Beach - Elite Pro Tournament Gaming Headset",
+		"brands" : [
+			"Turtle Beach"
+		],
+		"ASIN" : "B01EM9PLVC",
+		"one_series_with" : null,
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "headset",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			null
+		],
+		"all_games" : 8,
+		"csgo" : 8,
+		"dota2" : 0,
+		"all_games_percent" : 1.95,
+		"csgo_percent" : 3.92,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "Corsair VOID",
+		"brands" : [
+			"Corsair"
+		],
+		"ASIN" : "B01L3J23L0",
+		"one_series_with" : "B0748ND2HV",
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "headset",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			"Corsair VOID PRO RGB"
+		],
+		"all_games" : 3,
+		"csgo" : 3,
+		"dota2" : 0,
+		"all_games_percent" : 0.73,
+		"csgo_percent" : 1.47,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "HyperX Cloud Revolver S",
+		"brands" : [
+			"HyperX"
+		],
+		"ASIN" : "B01N9RM9N3",
+		"one_series_with" : "B01CIEBU54",
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "headset",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			"HyperX Cloud Revolver"
+		],
+		"all_games" : 2,
+		"csgo" : 2,
+		"dota2" : 0,
+		"all_games_percent" : 0.49,
+		"csgo_percent" : 0.98,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "Beyerdynamic MMX 300",
+		"brands" : [
+			"Beyerdynamic"
+		],
+		"ASIN" : "B06WGVJ9GY",
+		"one_series_with" : null,
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "headset",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			null
+		],
+		"all_games" : 1,
+		"csgo" : 1,
+		"dota2" : 0,
+		"all_games_percent" : 0.24,
+		"csgo_percent" : 0.49,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "Razer Kraken Pro V2 Oval",
+		"brands" : [
+			"Razer"
+		],
+		"ASIN" : "B06Y3YNSMJ",
+		"one_series_with" : "B07BH7KSMB",
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "headset",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			"Razer Kraken Pro V2"
+		],
+		"all_games" : null,
+		"csgo" : null,
+		"dota2" : null,
+		"all_games_percent" : null,
+		"csgo_percent" : null,
+		"dota2_percent" : null,
+		"hide" : true
+	},
+	{
+		"title" : "Logitech G433",
+		"brands" : [
+			"Logitech"
+		],
+		"ASIN" : "B072BY1H95",
+		"one_series_with" : null,
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "headset",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			null
+		],
+		"all_games" : 4,
+		"csgo" : 4,
+		"dota2" : 0,
+		"all_games_percent" : 0.97,
+		"csgo_percent" : 1.96,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "Razer Kraken 7.1 Chroma V2",
+		"brands" : [
+			"Razer"
+		],
+		"ASIN" : "B072DRCM1Q",
+		"one_series_with" : "B072DRCM1Q",
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "headset",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			"Razer Kraken 7.1 Chroma"
+		],
+		"all_games" : null,
+		"csgo" : null,
+		"dota2" : null,
+		"all_games_percent" : null,
+		"csgo_percent" : null,
+		"dota2_percent" : null,
+		"hide" : true
+	},
+	{
+		"title" : "Corsair VOID PRO RGB",
+		"brands" : [
+			"Corsair"
+		],
+		"ASIN" : "B0748ND2HV",
+		"one_series_with" : "B0748ND2HV",
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "headset",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			"Corsair VOID"
+		],
+		"all_games" : 3,
+		"csgo" : 3,
+		"dota2" : 0,
+		"all_games_percent" : 0.73,
+		"csgo_percent" : 1.47,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "HyperX Cloud Alpha",
+		"brands" : [
+			"HyperX"
+		],
+		"ASIN" : "B074NBSF9N",
+		"one_series_with" : null,
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "headset",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			null
+		],
+		"all_games" : 15,
+		"csgo" : 15,
+		"dota2" : 0,
+		"all_games_percent" : 3.65,
+		"csgo_percent" : 7.35,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "XTRFY XG-H1",
+		"brands" : [
+			"XTRFY"
+		],
+		"ASIN" : "B077CDCQ46",
+		"one_series_with" : null,
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "headset",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			null
+		],
+		"all_games" : 5,
+		"csgo" : 5,
+		"dota2" : 0,
+		"all_games_percent" : 1.22,
+		"csgo_percent" : 2.45,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "SteelSeries Arctis Pro",
+		"brands" : [
+			"SteelSeries"
+		],
+		"ASIN" : "B07B32GY9Z",
+		"one_series_with" : null,
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "headset",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			null
+		],
+		"all_games" : 10,
+		"csgo" : 10,
+		"dota2" : 0,
+		"all_games_percent" : 2.43,
+		"csgo_percent" : 4.9,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "Razer Kraken Pro V2",
+		"brands" : [
+			"Razer"
+		],
+		"ASIN" : "B07BH7KSMB",
+		"one_series_with" : "B07BH7KSMB",
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "headset",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			"Razer Kraken Pro V2 Oval"
+		],
+		"all_games" : 1,
+		"csgo" : 1,
+		"dota2" : 0,
+		"all_games_percent" : 0.24,
+		"csgo_percent" : 0.49,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "AOC G2460PQU",
+		"brands" : [
+			"AOC"
+		],
+		"ASIN" : "B01BV1XBEI",
+		"one_series_with" : null,
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "monitor",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			null
+		],
+		"all_games" : 4,
+		"csgo" : 4,
+		"dota2" : 0,
+		"all_games_percent" : 0.97,
+		"csgo_percent" : 1.96,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "Asus ROG SWIFT PG248Q",
+		"brands" : [
+			"Asus"
+		],
+		"ASIN" : "B01M4II4M4",
+		"one_series_with" : null,
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "monitor",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			null
+		],
+		"all_games" : 2,
+		"csgo" : 2,
+		"dota2" : 0,
+		"all_games_percent" : 0.49,
+		"csgo_percent" : 0.98,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "Asus VG245H",
+		"brands" : [
+			"Asus"
+		],
+		"ASIN" : "B01JGYM5H6",
+		"one_series_with" : "B00B2HH7G0",
+		"ya_market_number" : "14141327",
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "monitor",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			"Asus VG245HE",
+			"Asus VG248QE"
+		],
+		"all_games" : null,
+		"csgo" : null,
+		"dota2" : null,
+		"all_games_percent" : null,
+		"csgo_percent" : null,
+		"dota2_percent" : null,
+		"hide" : true
+	},
+	{
+		"title" : "Asus VG245HE",
+		"brands" : [
+			"Asus"
+		],
+		"ASIN" : "B074FKB5WD",
+		"one_series_with" : "B00B2HH7G0",
+		"ya_market_number" : "1715028017",
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "monitor",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			"Asus VG245H",
+			"Asus VG248QE"
+		],
+		"all_games" : null,
+		"csgo" : null,
+		"dota2" : null,
+		"all_games_percent" : null,
+		"csgo_percent" : null,
+		"dota2_percent" : null,
+		"hide" : true
+	},
+	{
+		"title" : "Asus VG248QE",
+		"brands" : [
+			"Asus"
+		],
+		"ASIN" : "B00B2HH7G0",
+		"one_series_with" : "B00B2HH7G0",
+		"ya_market_number" : "9281116",
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "monitor",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			"Asus VG245H",
+			"Asus VG245HE"
+		],
+		"all_games" : 14,
+		"csgo" : 14,
+		"dota2" : 0,
+		"all_games_percent" : 3.41,
+		"csgo_percent" : 6.86,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "BenQ XL2430T",
+		"brands" : [
+			"BenQ"
+		],
+		"ASIN" : "B00M8E0K06",
+		"one_series_with" : "B00M8E0K06",
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "monitor",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			"BenQ ZOWIE XL2430"
+		],
+		"all_games" : 11,
+		"csgo" : 11,
+		"dota2" : 0,
+		"all_games_percent" : 2.68,
+		"csgo_percent" : 5.39,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "BenQ ZOWIE XL2411P",
+		"brands" : [
+			"BenQ",
+			"ZOWIE"
+		],
+		"ASIN" : "B01H5KKQTM",
+		"one_series_with" : null,
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "monitor",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			null
+		],
+		"all_games" : null,
+		"csgo" : null,
+		"dota2" : null,
+		"all_games_percent" : null,
+		"csgo_percent" : null,
+		"dota2_percent" : null,
+		"hide" : true
+	},
+	{
+		"title" : "BenQ ZOWIE XL2430",
+		"brands" : [
+			"BenQ",
+			"ZOWIE"
+		],
+		"ASIN" : "B01H5KKW0A",
+		"one_series_with" : "B00M8E0K06",
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "monitor",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			"BenQ XL2430T"
+		],
+		"all_games" : null,
+		"csgo" : null,
+		"dota2" : null,
+		"all_games_percent" : null,
+		"csgo_percent" : null,
+		"dota2_percent" : null,
+		"hide" : true
+	},
+	{
+		"title" : "BenQ ZOWIE XL2536",
+		"brands" : [
+			"BenQ",
+			"ZOWIE"
+		],
+		"ASIN" : "B076CM5RR8",
+		"one_series_with" : null,
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "monitor",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			null
+		],
+		"all_games" : null,
+		"csgo" : null,
+		"dota2" : null,
+		"all_games_percent" : null,
+		"csgo_percent" : null,
+		"dota2_percent" : null,
+		"hide" : true
+	},
+	{
+		"title" : "BenQ ZOWIE XL2540",
+		"brands" : [
+			"BenQ",
+			"ZOWIE"
+		],
+		"ASIN" : "B01MCYUV19",
+		"one_series_with" : "B01MCYUV19",
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "monitor",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			"BenQ ZOWIE XL2546"
+		],
+		"all_games" : 39,
+		"csgo" : 39,
+		"dota2" : 0,
+		"all_games_percent" : 9.49,
+		"csgo_percent" : 19.12,
+		"dota2_percent" : 0,
+		"hide" : false
+	},
+	{
+		"title" : "BenQ ZOWIE XL2546",
+		"brands" : [
+			"BenQ",
+			"ZOWIE"
+		],
+		"ASIN" : "B06XT6XQ6V",
+		"one_series_with" : "B01MCYUV19",
+		"ya_market_number" : null,
+		"model_year" : null,
+		"mouse_sensor" : null,
+		"mouse_sensor_model" : null,
+		"mouse_form" : null,
+		"mouse_wire" : null,
+		"device_type" : "monitor",
+		"mousepad_positioning" : null,
+		"keyswitches_brands" : null,
+		"keyswitches" : null,
+		"headset_acoustics" : null,
+		"series" : [
+			"BenQ ZOWIE XL2540"
+		],
+		"all_games" : 19,
+		"csgo" : 19,
+		"dota2" : 0,
+		"all_games_percent" : 4.62,
+		"csgo_percent" : 9.31,
+		"dota2_percent" : 0,
+		"hide" : false
+	}
+]

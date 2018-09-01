@@ -1,6 +1,7 @@
 import React from 'react'
 import DeviceLinkCard from '../components/DeviceLinkCard'
-
+import RadioFilter from '../components/RadioFilter';
+ 
 const IndexDevices = ({
   data: {
     allDevicesJson: { edges },
@@ -20,7 +21,7 @@ const IndexDevices = ({
       // если девайс его не проходит то filter_matches = false
       //
       // фильтр по мышиным фильтрам-радио кнопкам
-      if ('optical' !== edge.node.mouse_sensor) {
+      if ('laser' !== edge.node.mouse_sensor) {
         filter_matches = false
       }
 
@@ -28,7 +29,7 @@ const IndexDevices = ({
     })
     .map(edge => <DeviceLinkCard key={edge.node.id} device={edge.node} />)
 
-  return <div>{Devices}</div>
+  return <div><RadioFilter></RadioFilter>{Devices}</div>
 }
 export default IndexDevices
 

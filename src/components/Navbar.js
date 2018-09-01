@@ -1,9 +1,9 @@
 import React from 'react'
+import Link from 'gatsby-link'
 import PropTypes from 'prop-types'
 import { withStyles } from '@material-ui/core/styles'
 import AppBar from '@material-ui/core/AppBar'
 import Toolbar from '@material-ui/core/Toolbar'
-import Typography from '@material-ui/core/Typography'
 import Button from '@material-ui/core/Button'
 
 const styles = {
@@ -21,10 +21,9 @@ function Navbar(props) {
     <div className={classes.root}>
       <AppBar position="static" color="default">
         <Toolbar>
-          <Typography variant="title" color="inherit" className={classes.flex}>
-            Photos
-          </Typography>
-          <Button color="inherit">Login</Button>
+          <Button component={Link} to="/" color="inherit">Home</Button>
+          <Button component={Link} to="/blog" color="inherit">Blog</Button>
+          <Button component={Link} to="/devices" color="inherit">Devices</Button>
         </Toolbar>
       </AppBar>
     </div>

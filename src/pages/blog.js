@@ -1,5 +1,5 @@
 import React from 'react'
-import PostLinkCard from '../components/PostLinkCard'
+import LinkCardPost from '../components/LinkCardPost'
 
 const IndexBlog = ({
   data: {
@@ -8,7 +8,7 @@ const IndexBlog = ({
 }) => {
   const Posts = edges
     .filter(edge => !!edge.node.frontmatter.date) // You can filter your posts based on some criteria
-    .map(edge => <PostLinkCard key={edge.node.id} post={edge.node} />)
+    .map(edge => <LinkCardPost key={edge.node.id} post={edge.node} />)
 
   return <div>{Posts}</div>
 }

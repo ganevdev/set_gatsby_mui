@@ -1,5 +1,5 @@
 import React from 'react'
-import DeviceLinkCard from '../components/DeviceLinkCard'
+import LinkCardDevice from '../components/LinkCardDevice'
 import RadioFilter from '../components/RadioFilter';
  
 const IndexDevices = ({
@@ -27,7 +27,7 @@ const IndexDevices = ({
 
       if (filter_matches) return edge
     })
-    .map(edge => <DeviceLinkCard key={edge.node.id} device={edge.node} />)
+    .map(edge => <LinkCardDevice key={edge.node.id} device={edge.node} />)
 
   return <div><RadioFilter></RadioFilter>{Devices}</div>
 }

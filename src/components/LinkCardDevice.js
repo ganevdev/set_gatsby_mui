@@ -1,7 +1,7 @@
 import React from 'react'
 import Link from 'gatsby-link'
 
-const DeviceLinkCard = ({ device }) => (
+const LinkCardDevice = ({ device }) => (
   <div>
     <Link to={device.fields.slug}>
       <h1 isSize={4}>{device.title}</h1>
@@ -9,4 +9,4 @@ const DeviceLinkCard = ({ device }) => (
   </div>
 )
 
-export default DeviceLinkCard
+export default LinkCardDevice

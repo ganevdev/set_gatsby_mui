@@ -1,2 +1,3 @@
 // компонент из которого я буду брать лист данных девайсов при помощи пропсов буду задавать те параметры которые мне нужны это должен быть класс с заданными параметрами которые будут задаваться из вне вроде <DevicesData sensor_type={this.sensor_type}/>
+// по суте это будет компонент вечное дитя - children
 // Возможно полезная статья: How to conditionally build an object in JavaScript with ES6 https://medium.freecodecamp.org/how-to-conditionally-build-an-object-in-javascript-with-es6-e2c49022c448
